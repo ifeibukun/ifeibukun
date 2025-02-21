@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @ifeibukun
-- 👀 I’m interested in web developing
-- 🌱 I’m currently learning javascript
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me wa.me/+2349135589945
+👋 Hi, I'm Marvelous!
+🚀 Freelancer | Full-Stack Web Developer | Digital Marketer
 
-<!---
-ifeibukun/ifeibukun is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I specialize in PHP, MySQL, JavaScript, HTML, and CSS, building high-performance web applications, virtual waiting room systems, and orphanage management platforms. With expertise in email marketing, content creation, and live streaming, I bring tech solutions to life.
+
+💡 Passionate about problem-solving, user-friendly experiences, and innovative web apps.
+📌 Currently working on Veritas Pay (Online Banking) & Virtual Waiting Room System.
